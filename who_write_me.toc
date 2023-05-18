@@ -1,0 +1,7 @@
+## Interface: 90207
+## Author: ElementoBorzia
+## Title: |cffc41f3bWho Write Me|r
+## Version: 1.1
+## Notes: Shows PM on the screen
+
+whopm.lua
